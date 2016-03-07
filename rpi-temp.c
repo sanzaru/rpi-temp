@@ -104,7 +104,7 @@ int main(int argc, char **argv) {
         printf("%.2f", get_temperature());
     
     } else {
-        printf("Internal temperature: %.2f°C\n", get_temperature());
+        printf("CPU temperature: %.2f°C\n", get_temperature());
     }
 
     return 0;
