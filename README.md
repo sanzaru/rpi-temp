@@ -1,5 +1,5 @@
 # rpi-temp
-Small utility to get the internal temperature on a RaspberryPi
+Small utility to get the CPU temperature on a RaspberryPi
 
 ## Build
 Just run *make* to build the program. The only requirements are standard C 
@@ -15,5 +15,5 @@ Run ./rpi-temp
 
 ```
 $ ./rpi-temp 
-Internal temperature: 48.69°C
+CPU temperature: 48.69°C
 ```
